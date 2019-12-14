@@ -22,6 +22,9 @@
         <section class="post-excerpt">
             <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
         </section>
+        <footer class="post-meta">
+            {{ post.date | date_to_string }}
+        </footer>
     </article>
     {% endfor %}
 
