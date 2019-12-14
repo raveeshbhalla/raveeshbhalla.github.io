@@ -7,8 +7,9 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Things worth writing down'
+description: 'Products. Design. Code. Life.'
+auhtor: 'Raveesh Bhalla'
 
 short_url: 'jekyller.github.io/jasper/'
 google_analytics: UA-69281367-1
