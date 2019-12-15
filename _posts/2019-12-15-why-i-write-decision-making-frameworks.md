@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why I write decision-making frameworks
-subclass: 'post'
 ---
 Over the past several months, I have found myself to have written a fairly large number of internal decision making frameworks. These have ranged from defining a means to think about the information architecture on LinkedIn's Job Search components (specifically, our job cards and details pane) to recommendations on how to evaluate A/B tests. And even though I've always liked to write, in retrospect I'm surprised at the volume.
 
