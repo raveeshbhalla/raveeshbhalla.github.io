@@ -8,14 +8,14 @@ language: 'en-uk'
 
 # Website info
 name: 'Things worth writing down'
-description: 'Products. Design. Code. Life.'
-auhtor: 'Raveesh Bhalla'
+description: 'Products. Design. Code. Life'
+author: 'Raveesh Bhalla'
+image: 'assets/images/mug.png'
 
-short_url: 'jekyller.github.io/jasper/'
+short_url: 'raveesh.in'
 google_analytics: UA-69281367-1
-disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -46,13 +46,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
+username: raveeshbhalla
 repo: jasper
 branch: master
-relative_source: ../jasper/
+relative_source: ../
 destination: ../jasper-pages/
-production_url:  https://jekyller.github.io/jasper/
-source_url:  https://github.com/jekyller/jasper/
+production_url:  https://raveesh.in/
+source_url:  https://github.com/raveeshbhalla/jasper/
 
 exclude:
   - README.md
