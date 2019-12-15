@@ -20,7 +20,12 @@
             <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
+            <p>
+                <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{% if post.content contains '<!--more-->' %}
+                {{ post.content | split:'<!--more-->' | first }}
+            {% else %}
+                {{ post.excerpt }}
+            {% endif %}</a></p>
         </section>
         <footer class="post-meta">
             {{ post.date | date_to_string }}
