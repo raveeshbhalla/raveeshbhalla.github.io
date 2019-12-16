@@ -9,10 +9,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Install jekyll
-      run: |
-        sudo apt-get install ruby-full build-essential zlib1g-dev | echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc | echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc | echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc | source ~/.bashrcgem | gem install jekyll bundler
-
-    - name: Build site
-      run: |
-        bundle exec jekyll serve
+    - name: jekyll-deploy-gh-pages
+        uses: BryanSchuetz/jekyll-deploy-gh-pages@v2.0
