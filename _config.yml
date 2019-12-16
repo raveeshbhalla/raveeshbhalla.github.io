@@ -54,6 +54,11 @@ destination: ./build
 production_url:  https://raveesh.in/
 source_url:  https://github.com/raveeshbhalla/jasper/
 
+# Social
+twitter: 'https://twitter.com/raveeshbhalla'
+linkedin: 'https://linkedin.com/in/raveeshbhalla'
+email: 'mailto:raveeshbhalla@gmail.com?subject=[Reaching out via blog]'
+
 exclude:
   - README.md
   - Rakefile

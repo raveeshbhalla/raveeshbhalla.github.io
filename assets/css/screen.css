@@ -140,6 +140,7 @@ td, th{ padding: 0; }
 .icon-twitter:before {
     content: "\f602";
     font-size: 1.1em;
+    color: #fff
 }
 .icon-google-plus:before {
     content: "\f603";
@@ -162,6 +163,13 @@ td, th{ padding: 0; }
 }
 .icon-menu:before {
     content: "\f609";
+}
+
+.social {
+    height: 24px;
+    width: 24px;
+    padding: 8px;
+    opacity: 0.87;
 }
 /*
     IMPORTANT: When making any changes to the icon font, be sure to increment
@@ -1573,7 +1581,7 @@ body.page-template .post-title {
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 4rem auto;
+    margin: 2rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
     color: #9EABB3;
@@ -1714,12 +1722,13 @@ body.page-template .post-title {
 
 .site-footer {
     position: relative;
-    margin: 8rem 0 0 0;
-    padding: 1rem 15px;
+    width: 100%;
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
+    align-content: center;
+    text-align: center;
 }
 
 .site-footer a {
