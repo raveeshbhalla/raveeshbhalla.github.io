@@ -50,7 +50,7 @@ username: raveeshbhalla
 repo: jasper
 branch: master
 relative_source: ../
-destination: ../jasper-pages/
+destination: .public
 production_url:  https://raveesh.in/
 source_url:  https://github.com/raveeshbhalla/jasper/
 
