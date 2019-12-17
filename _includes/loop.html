@@ -16,20 +16,23 @@
     <!-- This is the post loop - each post will be output using this markup -->
     {% for post in paginator.posts %}
     <article class="post">
+        <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
+            <h2 class="post-title">{{ post.title }}</h2>
         </header>
+        
         <section class="post-excerpt">
             <p>
-                <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{% if post.content contains '<!--more-->' %}
+                {% if post.content contains '<!--more-->' %}
                 {{ post.content | split:'<!--more-->' | first }}
             {% else %}
                 {{ post.excerpt }}
-            {% endif %}</a></p>
+            {% endif %}</p>
         </section>
         <footer class="post-meta">
-            {{ post.date | date_to_string }}
+            {{ post.date | date_to_string }} | Continue Reading
         </footer>
+    </a>
     </article>
     {% endfor %}
 
