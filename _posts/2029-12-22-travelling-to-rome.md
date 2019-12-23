@@ -4,6 +4,7 @@ title: Travelling to Rome
 ---
 
 Two of my colleagues asked me for my recommendations about their travel to Rome, so I thought id write down some highlights from earlier in the year!
+<!--more-->
 ## Days
 3-4 days in Rome itself should be enough. In addition, you could do the Amalfi coast down south (comes highly recommended by my sister), or a variety of other places up north. We decided to drive through a variety (over a dozen) of towns in Tuscany after being a little overwhelming by the number of people in Rome.
 ## Tours in Rome
