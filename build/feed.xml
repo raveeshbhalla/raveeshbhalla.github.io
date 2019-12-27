@@ -8,12 +8,60 @@
     
       
       <item>
+        <title>Travelling to Rome</title>
+          <description>&lt;p&gt;Two of my colleagues asked me for my recommendations about their travel to Rome, so I thought id write down some highlights from earlier in the year!
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2 id=&quot;days&quot;&gt;Days&lt;/h2&gt;
+&lt;p&gt;3-4 days in Rome itself should be enough. In addition, you could do the Amalfi coast down south (comes highly recommended by my sister), or a variety of other places up north. We decided to drive through a variety (over a dozen) of towns in Tuscany after being a little overwhelming by the number of people in Rome.&lt;/p&gt;
+&lt;h2 id=&quot;tours-in-rome&quot;&gt;Tours in Rome&lt;/h2&gt;
+&lt;p&gt;We took two tours in Rome:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Vatican: highly recommend getting the VIP early entry tours. Our guide took us straight to the Sistine Chapel, stating that it would be incredibly crowded once the general public is allowed. We had to pass through the Chapel a second time, and I can attest that he was correct: we had so much time to admire Michelangelo’s work the first time. The art in the Chapel sticks with you, and so does the difference between the Church in Michelangelo’s time (represented by the Sistine Chapel) and the one after (St. Peter’s Basilica).&lt;/li&gt;
+  &lt;li&gt;Colosseum: we took an incredible &lt;a href=&quot;https://abnb.me/gJKj78Y5B2&quot;&gt;tour via Airbnb experiences&lt;/a&gt;. Instead of the usual large groups, it was relatively small (10 of us in total) and the host, Dario, used a bunch of VR headsets to make the experience more immersive. This may sound gimmicky, but being able to visualize how tall the Colossus of Nero was genuinely added a dimension to the trip. Also, Dario was just a fantastic person who shared some great recommendation on Tuscany and food in Rome. In fact, I’d recommend the tour with Dario as the first thing to do because he can help you plan the rest of your trip.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The rest of the time was spent walking by ourselves and using Google to dig in more about the places we were at.&lt;/p&gt;
+
+&lt;h2 id=&quot;food-in-rome&quot;&gt;Food in Rome&lt;/h2&gt;
+&lt;p&gt;Speaking of food recommendations, Rome was disappointing. The city is essentially filled with tourist traps, with dozens of places with 4+ stars through thousands of reviews on Google Maps. I’ll refrain from offering any specific place, though I’ll mention that we had better luck in Trastevere.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-to-stay&quot;&gt;Where to stay&lt;/h2&gt;
+&lt;p&gt;We stayed in an Airbnb in the &lt;a href=&quot;https://maps.app.goo.gl/5m7Nn3cuXKrtxHF2A&quot;&gt;heart of Ancient Rome&lt;/a&gt;, walking distance from the Trevi Fountain, Spanish steps, Pantheon, etc. If you like to walk and browse through the towns you visit, I highly recommend the location.&lt;/p&gt;
+
+&lt;h2 id=&quot;tuscany&quot;&gt;Tuscany&lt;/h2&gt;
+&lt;p&gt;The best way to describe our 4-5 days is that the region bored us with its’ beauty. After the disappointment of Rome, we finally enjoyed a number of great meals. Driving in the region was an experience worth remembering as well: it took us 1 hour since picking up our car to find ourselves jammed in a tight spot in a town. Quick tip: every town has visitor parking on the outskirts, so just head there instead of the center!&lt;/p&gt;
+
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Orvieto: beautiful town that’s fairly close to Rome. There was a wonderful wine bar close to their Church that was a great place to relax.&lt;/li&gt;
+  &lt;li&gt;Montepulciano: a little more busy than your average Tuscan town with a few good shops.&lt;/li&gt;
+  &lt;li&gt;Pienza: this place is gorgeous. Val d’orcia with it’s picturesque Cypress trees are right nearby, too.&lt;/li&gt;
+  &lt;li&gt;Saturnia: Instagram-famous for their magical thermal springs. Our itinerary was largely tailored for us to spend some time here.&lt;/li&gt;
+  &lt;li&gt;Manciano: right near Saturnia, we had the best meal of our trip here at &lt;a href=&quot;https://maps.app.goo.gl/4UnEe8Wv9EYar5qGA&quot;&gt;Trattoria Il Rifugio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 -0800</pubDate>
+        <link>
+        http://localhost:4000/travelling-to-rome</link>
+        <guid isPermaLink="true">http://localhost:4000/travelling-to-rome</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Why I write decision-making frameworks</title>
-        
           <description>&lt;p&gt;Over the past several months, I have found myself to have written a fairly large number of internal decision making frameworks. These have ranged from defining a means to think about the information architecture on LinkedIn’s Job Search components (specifically, our job cards and details pane) to recommendations on how to evaluate A/B tests. And even though I’ve always liked to write, in retrospect I’m surprised at the volume.&lt;/p&gt;
 
+&lt;p&gt;So, why did I do it?&lt;/p&gt;
+
+&lt;p&gt;First and foremost, it was to share how I thought and made decisions to partner teams. Writing allows me to fine-tune my thoughts even if I’m the only member of the audience, which means the partner teams get to hear (or read) my opinion when it has been thought through. Equally, I found myself repeating the same points over and over again in different settings to different people. Putting it down on paper allowed me to point them to an internal link to understand my rationale in depth, with supporting data in there to offer why I thought the way I did.&lt;/p&gt;
+
+&lt;p&gt;Secondly, and this goes hand in hand with the first point, I look at frameworks as living documents that will get amended. If someone disagrees with me, they have an opportunity (via comments or suggested edits which are always high encouraged) to share their perspective and help reshape my opinion. I’ve received some invaluable feedback and recommendations from a number of amazing people I get to work with which has (a) helped make the frameworks better (b) helped me think differently in all future decisions, even when unrelated to the original framework itself.&lt;/p&gt;
+
+&lt;p&gt;Lastly, and arguably the most important reason in my opinion: continuity. Frameworks allow for continuity in decision making which helps teams commit to a long term strategy. There are two variables that can often hurt those strategies: changing opinions and changing personnel.&lt;/p&gt;
+
+&lt;p&gt;I’ve guilty of the former, but have found frameworks valuable to avoid rash decisions. The latter has been a circumstance the Careers team at LinkedIn has found itself in given its going through a significant period of growth. The frameworks have helped new members of our teams as they ramp up (or at least they say so to me!), while equally keeping the boat steady without losing velocity. It has allowed me to &lt;a href=&quot;https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling-startups/&quot;&gt;give away my legos&lt;/a&gt; with complete trust.&lt;/p&gt;
 </description>
-        
         <pubDate>Sun, 15 Dec 2019 00:00:00 -0800</pubDate>
         <link>
         http://localhost:4000/why-i-write-decision-making-frameworks</link>
