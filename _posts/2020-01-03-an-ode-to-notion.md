@@ -2,6 +2,7 @@
 title: An ode to Notion
 layout: post
 draft: true
+permalink: an-ode-to-notion
 ---
 I've given [Notion](https://notion.so) two serious tries now, mostly because it does so much so well. Two things that stood out:
 1. It's databse system with multiple "views" across Kanban and tables was a game changer for OKR prep, where we could have a single central repo and oages for each function.
