@@ -8,7 +8,7 @@ on:
       - master
   pull_request:
     paths:
-      - '_posts/'
+      - '_posts/**'
 
 jobs: 
   build_and_deploy:
