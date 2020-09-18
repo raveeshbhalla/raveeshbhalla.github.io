@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pillars of AI product development
-draft: true
+permalink: pillars-of-ai
 ---
 **1. Objective:** seems obvious, but it's vital to document your objectives clearly so you can ensure everything you do afterwards is set up to drive towards this. Your objectives are going to be iterated on over time – as they should be – as you get more and more granular about the outcomes you want from your AI products.
 
