@@ -3,7 +3,8 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 25
+# TODO: shift to using _drafts and other pages to avoid such a bump
 language: 'en-uk'
 
 # Website info
