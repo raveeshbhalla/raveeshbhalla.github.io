@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Things worth writing down - Articles</title>
+    <description>Products. Design. Code. Life</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Zero sum</title>
+          <description>&lt;p&gt;From &lt;a href=&quot;https://www.amazon.com/dp/B005GFBP6W?ref_=k4w_ss_details_rh&quot;&gt;Awareness: Conversations with the Masters by Anthony de Mello, SJ&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Would you want me to love you at the cost of my happiness?” “Yes,” she answered. Isn’t that delightful? Wouldn’t that be wonderful? She would love me at the cost of her happiness and I would love her at the cost of my happiness, and so you’ve got two unhappy people, but long live love!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was trying to think why this didn’t resonate with me. After a few minutes, I realized that it was because it positions the choice as zero sum, and I &lt;em&gt;hate&lt;/em&gt; zero sum frameworks of decision making because it’s lazy and not representative of the real world.&lt;/p&gt;
+
+&lt;p&gt;This applies to relationships, to personal wellbeing, to even capitalism (also why I detest companies that want to “crush the competition”).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+        <link>
+        /zero-sum</link>
+        <guid isPermaLink="true">/zero-sum</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The pillars of AI product development</title>
+          <description>&lt;p&gt;&lt;strong&gt;1. Objective:&lt;/strong&gt; seems obvious, but it’s vital to document your objectives clearly so you can ensure everything you do afterwards is set up to drive towards this. Your objectives are going to be iterated on over time – as they should be – as you get more and more granular about the outcomes you want from your AI products.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Tracking &amp;amp; labelling:&lt;/strong&gt; the saying goes “your models are only as good as your data”, which is 💯. However, a vital subpoint here is that your data might be wasted if you lack a quality labelling strategy (i.e. what labels you use, how you collect them and ensuring they’re not adding noise to your system).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Infrastructure:&lt;/strong&gt; Investments here can help boost reliability, performance, efficiency and productivity. If your product is a vehicle, this is your engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Monitoring:&lt;/strong&gt; the fact that AI models are black boxes makes this space so vital – when things break, you may not even realize that it has. And the impact can be disastrous. Easily one of the most underinvested spaces.&lt;/p&gt;
+
+&lt;p&gt;It’s on top of this that you layer on your feature engineering and models itself. Invest in all four pillars to have compounding returns. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+        <link>
+        /pillars-of-ai</link>
+        <guid isPermaLink="true">/pillars-of-ai</guid>
+      </item>
+      
+    
+      
+    
+      
+      <item>
+        <title>Shane Parish on reading better</title>
+          <description>&lt;p&gt;Highly recommend Shane Parish’s &lt;a href=&quot;https://fs.blog/reading/&quot;&gt;blog on reading&lt;/a&gt;. Some notes/takeways below after diving into the rabbit hole.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Before starting to read a book (particularly non-fiction), skim through the index, contents page, preface, and inside the jacket to get an idea of the subject matter
+    &lt;ul&gt;
+      &lt;li&gt;Read cover and preface&lt;/li&gt;
+      &lt;li&gt;Read contents&lt;/li&gt;
+      &lt;li&gt;Read index to understand terms&lt;/li&gt;
+      &lt;li&gt;Read pivotal chapters&lt;/li&gt;
+      &lt;li&gt;Read end&lt;/li&gt;
+      &lt;li&gt;Listen to interviews&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Draw a mindmap of subject of what you know before you start reading. Keep adding to it after every session&lt;/li&gt;
+  &lt;li&gt;Take notes for every chapter set the end
+    &lt;ul&gt;
+      &lt;li&gt;Review at the end of week&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Read 25 pages every day
+    &lt;ul&gt;
+      &lt;li&gt;Half an hour after work with coffee&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/personal-growth/what-you-spend-time-reading-changes-your-brain-ee2ab4f2aa17&quot;&gt;Read only quality stuff&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Focus on time and details: is the knowledge you’ve gained relevant in current context, will it remain relevant and do you understand the details&lt;/li&gt;
+      &lt;li&gt;Stop when bored. Use the rule of 50 to decide if you still want to continue with the book.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Read more on the subject from other authors.&lt;/li&gt;
+  &lt;li&gt;How do you Find What a Book is About?
+    &lt;ul&gt;
+      &lt;li&gt;Classify the book according to kind and subject matter.&lt;/li&gt;
+      &lt;li&gt;State what the whole book is about with the utmost brevity.&lt;/li&gt;
+      &lt;li&gt;Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.&lt;/li&gt;
+      &lt;li&gt;Define the problem or problems the author is trying to solve.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Note down key parts elsewhere (in a journal or, if you’re me, a blog) with your interpretation of thoughts
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;em&gt;closing the book and writing a summary forces you to figure out the key points (one set of reaches), process and organize those ideas so they make sense (more reaches), and write them on the page (still more reaches, along with repetition). The equation is always the same: More reaching equals more learning.&lt;/em&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+        <link>
+        /reading</link>
+        <guid isPermaLink="true">/reading</guid>
+      </item>
+      
+    
+      
+    
+      
+      <item>
+        <title>Travelling to Rome</title>
+          <description>&lt;p&gt;Two of my colleagues asked me for my recommendations about their travel to Rome, so I thought id write down some highlights from earlier in the year!
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2 id=&quot;days&quot;&gt;Days&lt;/h2&gt;
+&lt;p&gt;3-4 days in Rome itself should be enough. In addition, you could do the Amalfi coast down south (comes highly recommended by my sister), or a variety of other places up north. We decided to drive through a variety (over a dozen) of towns in Tuscany after being a little overwhelming by the number of people in Rome.&lt;/p&gt;
+&lt;h2 id=&quot;tours-in-rome&quot;&gt;Tours in Rome&lt;/h2&gt;
+&lt;p&gt;We took two tours in Rome:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Vatican: highly recommend getting the VIP early entry tours. Our guide took us straight to the Sistine Chapel, stating that it would be incredibly crowded once the general public is allowed. We had to pass through the Chapel a second time, and I can attest that he was correct: we had so much time to admire Michelangelo’s work the first time. The art in the Chapel sticks with you, and so does the difference between the Church in Michelangelo’s time (represented by the Sistine Chapel) and the one after (St. Peter’s Basilica).&lt;/li&gt;
+  &lt;li&gt;Colosseum: we took an incredible &lt;a href=&quot;https://abnb.me/gJKj78Y5B2&quot;&gt;tour via Airbnb experiences&lt;/a&gt;. Instead of the usual large groups, it was relatively small (10 of us in total) and the host, Dario, used a bunch of VR headsets to make the experience more immersive. This may sound gimmicky, but being able to visualize how tall the Colossus of Nero was genuinely added a dimension to the trip. Also, Dario was just a fantastic person who shared some great recommendation on Tuscany and food in Rome. In fact, I’d recommend the tour with Dario as the first thing to do because he can help you plan the rest of your trip.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The rest of the time was spent walking by ourselves and using Google to dig in more about the places we were at.&lt;/p&gt;
+
+&lt;h2 id=&quot;food-in-rome&quot;&gt;Food in Rome&lt;/h2&gt;
+&lt;p&gt;Speaking of food recommendations, Rome was disappointing. The city is essentially filled with tourist traps, with dozens of places with 4+ stars through thousands of reviews on Google Maps. I’ll refrain from offering any specific place, though I’ll mention that we had better luck in Trastevere.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-to-stay&quot;&gt;Where to stay&lt;/h2&gt;
+&lt;p&gt;We stayed in an Airbnb in the &lt;a href=&quot;https://maps.app.goo.gl/5m7Nn3cuXKrtxHF2A&quot;&gt;heart of Ancient Rome&lt;/a&gt;, walking distance from the Trevi Fountain, Spanish steps, Pantheon, etc. If you like to walk and browse through the towns you visit, I highly recommend the location.&lt;/p&gt;
+
+&lt;h2 id=&quot;tuscany&quot;&gt;Tuscany&lt;/h2&gt;
+&lt;p&gt;The best way to describe our 4-5 days is that the region bored us with its’ beauty. After the disappointment of Rome, we finally enjoyed a number of great meals. Driving in the region was an experience worth remembering as well: it took us 1 hour since picking up our car to find ourselves jammed in a tight spot in a town. Quick tip: every town has visitor parking on the outskirts, so just head there instead of the center!&lt;/p&gt;
+
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Orvieto: beautiful town that’s fairly close to Rome. There was a wonderful wine bar close to their Church that was a great place to relax.&lt;/li&gt;
+  &lt;li&gt;Montepulciano: a little more busy than your average Tuscan town with a few good shops.&lt;/li&gt;
+  &lt;li&gt;Pienza: this place is gorgeous. Val d’orcia with it’s picturesque Cypress trees are right nearby, too.&lt;/li&gt;
+  &lt;li&gt;Saturnia: Instagram-famous for their magical thermal springs. Our itinerary was largely tailored for us to spend some time here.&lt;/li&gt;
+  &lt;li&gt;Manciano: right near Saturnia, we had the best meal of our trip here at &lt;a href=&quot;https://maps.app.goo.gl/4UnEe8Wv9EYar5qGA&quot;&gt;Trattoria Il Rifugio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+        <link>
+        /travelling-to-rome</link>
+        <guid isPermaLink="true">/travelling-to-rome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Why I write decision-making frameworks</title>
+          <description>&lt;p&gt;Over the past several months, I have found myself to have written a fairly large number of internal decision making frameworks. These have ranged from defining a means to think about the information architecture on LinkedIn’s Job Search components (specifically, our job cards and details pane) to recommendations on how to evaluate A/B tests. And even though I’ve always liked to write, in retrospect I’m surprised at the volume.&lt;/p&gt;
+
+&lt;p&gt;So, why did I do it?&lt;/p&gt;
+
+&lt;p&gt;First and foremost, it was to share how I thought and made decisions to partner teams. Writing allows me to fine-tune my thoughts even if I’m the only member of the audience, which means the partner teams get to hear (or read) my opinion when it has been thought through. Equally, I found myself repeating the same points over and over again in different settings to different people. Putting it down on paper allowed me to point them to an internal link to understand my rationale in depth, with supporting data in there to offer why I thought the way I did.&lt;/p&gt;
+
+&lt;p&gt;Secondly, and this goes hand in hand with the first point, I look at frameworks as living documents that will get amended. If someone disagrees with me, they have an opportunity (via comments or suggested edits which are always high encouraged) to share their perspective and help reshape my opinion. I’ve received some invaluable feedback and recommendations from a number of amazing people I get to work with which has (a) helped make the frameworks better (b) helped me think differently in all future decisions, even when unrelated to the original framework itself.&lt;/p&gt;
+
+&lt;p&gt;Lastly, and arguably the most important reason in my opinion: continuity. Frameworks allow for continuity in decision making which helps teams commit to a long term strategy. There are two variables that can often hurt those strategies: changing opinions and changing personnel.&lt;/p&gt;
+
+&lt;p&gt;I’ve guilty of the former, but have found frameworks valuable to avoid rash decisions. The latter has been a circumstance the Careers team at LinkedIn has found itself in given its going through a significant period of growth. The frameworks have helped new members of our teams as they ramp up (or at least they say so to me!), while equally keeping the boat steady without losing velocity. It has allowed me to &lt;a href=&quot;https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling-startups/&quot;&gt;give away my legos&lt;/a&gt; with complete trust.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+        <link>
+        /why-i-write-decision-making-frameworks</link>
+        <guid isPermaLink="true">/why-i-write-decision-making-frameworks</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
